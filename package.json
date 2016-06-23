@@ -1,0 +1,30 @@
+{
+  "name": "express-swagger-explorer",
+  "version": "1.0.0",
+  "description": "Swagger UI Responsive Theme for Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/will123195/express-swagger-explorer.git"
+  },
+  "keywords": [
+    "swagger",
+    "ui",
+    "express"
+  ],
+  "author": "will123195",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/will123195/express-swagger-explorer/issues"
+  },
+  "homepage": "https://github.com/will123195/express-swagger-explorer#readme",
+  "dependencies": {
+    "swagger-ui": "git+https://github.com/will123195/swagger-ui.git"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
