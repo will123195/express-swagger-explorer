@@ -3,4 +3,4 @@ var app = express()
 
 module.exports = app
 
-app.use(express.static(__dirname + '/node_modules/swagger-ui/dist'))
+app.use(express.static(__dirname + '/swagger-ui/dist'))

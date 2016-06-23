@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/will123195/express-swagger-explorer#readme",
   "dependencies": {
-    "swagger-ui": "git+https://github.com/will123195/swagger-ui.git"
   },
   "devDependencies": {
     "express": "^4.14.0"
